@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python:SBDL",
+      "type": "python",
+      "request": "launch",
+      "program": "C:/Users/praty/Documents/Projects/SBDL/sbdl_main.py",
+      "args": ["local", "2024-08-31"],
+      "console": "integratedTerminal"
+    }
+  ]
+}
